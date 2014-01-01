@@ -1,0 +1,6 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Edad mayor o menor\Edad mayor o menor\bin\Debug\Edad mayor o menor.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Edad mayor o menor\Edad mayor o menor\bin\Debug\Edad mayor o menor.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Edad mayor o menor\Edad mayor o menor\bin\Debug\Edad mayor o menor.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Edad mayor o menor\Edad mayor o menor\obj\Debug\Edad mayor o menor.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Edad mayor o menor\Edad mayor o menor\obj\Debug\Edad mayor o menor.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Edad mayor o menor\Edad mayor o menor\obj\Debug\Edad mayor o menor.pdb
